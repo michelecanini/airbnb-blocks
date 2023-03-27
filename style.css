@@ -35,6 +35,7 @@ nav > img{
     background-size: cover;
     position: relative;
     background-position: center;
+    border: 1px solid black;
 } 
 
 .background-newyork{
